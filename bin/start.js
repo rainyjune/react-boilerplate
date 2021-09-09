@@ -56,7 +56,7 @@ exec(
     // npm will remove the .gitignore file when the package is installed, therefore it cannot be copied
     // locally and needs to be downloaded.
     https.get(
-      "https://raw.githubusercontent.com/Nikhil-Kumaran/reactjs-boilerplate/master/.gitignore",
+      "https://raw.githubusercontent.com/rainyjune/react-boilerplate/main/.gitignore",
       (res) => {
         res.setEncoding("utf8");
         let body = "";
