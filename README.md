@@ -1,5 +1,7 @@
 # react-boilerplate
 
+A simple boilerplate application with React, Ant Design, and React Router.
+
 ```
 git clone https://github.com/rainyjune/react-boilerplate.git
 cd react-boilerplate
