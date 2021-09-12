@@ -1,6 +1,6 @@
 # react-boilerplate
 
-A simple boilerplate application with React, Ant Design, and React Router.
+A simple boilerplate application with React, Ant Design, and React Router, Typescript support.
 
 ```
 git clone https://github.com/rainyjune/react-boilerplate.git
